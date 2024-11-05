@@ -6,4 +6,4 @@ Nerd font: [SFMono Nerd Font Ligaturized](https://github.com/shaunsingh/SFMono-N
 Firefox theme: [Shyfox](https://github.com/Naezr/ShyFox)\
 Konsole: [DяA Pimp My Terminal](https://drasite.com/blog/Pimp%20my%20terminal)\
 Window Decorations: [Klassy](https://github.com/paulmcauley/klassy)\
-Icons: [Tela Circle](https://github.com/vinceliuice/Tela-circle-icon-theme)\
+Icons: [Tela Circle](https://github.com/vinceliuice/Tela-circle-icon-theme)
